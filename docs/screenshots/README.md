@@ -1,0 +1,1 @@
+Authentic dashboard capture from the Meralvo Android debug build running in an Android 16 emulator on 2026-09-29. Other requested screens were not captured because the emulator UI automation bridge was unavailable.
